@@ -23,8 +23,7 @@ del fruits[1]
 fruits = ['apple','orange','banana','tomato']
 last_fruit = pop()
 first_fruit = pop(0)
-return last_fruit
-return first_fruit
+
 
 #remove(): Removes an item by value.
 fruits = ['apple','orange','banana','tomato']
